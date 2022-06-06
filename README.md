@@ -1,26 +1,29 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+# password_generator
+
+## Description
+
+Welcome to the README generator application.
+
+The program is set to dynamically generate README files through terminal interaction.
+* Users input information.
+* README file is generated.
+
+## Instructions
+
+* First, open the application in the terminal and run it by typing "node ." or "node index.js".
+* Second, answer all of the read-me file related questions that will automatically be prompted in the terminal.
+* When all prompts are answered a README file will be generated and appear in the dist folder.
 
 
+ ## Contributers to the project:
+ - Paulo Oliverira
 
---------------------------------------------------------
+## Links and preview: 
+![Walk-through_video] (https://drive.google.com/file/d/1cMrfBi5SnvPsY-Xu_6YDzwgCvMxrlQy-/view?usp=sharing)
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled 
-Description, Table of Contents, 
+![GitHub-repository] (https://github.com/paulooliveira152012/readmegenerator)
 
-Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+Application Screenshot
+![HTML-ScreenShot](./Screenshots/Screen%20Shot%202022-06-06%20at%2010.47.37%20AM.png) 

@@ -1,5 +1,6 @@
-# fdlsnfds
+# readme generator
 ![badge](https://img.shields.io/badge/license-ISC-green)
+![badge](https://img.shields.io/github/last-commit/Paulo.example/Paulo's Repo)
 - [instalation](#instalation)
 - [usage](#usage)
 - [contribution](#contribution)
@@ -7,19 +8,19 @@
 
 
   ## description 
-  dsf
+  creating readme files through terminal interactions
   
   ## instalation
-  sdffsdf
+  run node . or node index.js in terminal and answer questions
 
   ## usage
-  dsfsd
+  This application is used to dynamically generate readme files
 
   ## license
   ISC
 
   ## contribution
-  dfsvsd
+  Paulo
 
   ## tests
-  dsf
+  tests may vary
